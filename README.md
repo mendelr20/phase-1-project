@@ -13,7 +13,7 @@ Build a application with drugs used by EMT's/Paramedics in the field.
   - Indications/condition
   - Class
 - When a medication is clicked on it will display the medications information.
-- When you click Calculate Drug Dose it will calculate the dose based on what is below;
+- When you click Calculate Drug Dose it will calculate the dose based on:
   - It will pull up the COH (Concentration on hand), select my COH (Concentration on hand), or create it by inputting drug amount in how much fluid.
   - I will be able to select which condition the medication is being administered for.
   - I will have the ability to change the generic from adult to pediatric if it is a drug that is administered to pediatrics as well.
@@ -22,6 +22,7 @@ Build a application with drugs used by EMT's/Paramedics in the field.
   -  I will be able to put in the patients age if the dosage goes by age and if it is a drug with a minimum or maximum age it will required it and indicate if it is not allowed.
   - If it is a Drug that is delivered via a infusion over a certain amount of time it will be able to calculate based on:
   -  What size drip set it is.
+- A standard Drug Calculator which will be able to calculate based on all the above mentioned features.
 
 
 
