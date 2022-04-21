@@ -1,0 +1,80 @@
+{
+    "drugs":{
+        "ADENOSINE (Adenocard)":{
+            "Class": "Endogenous Nucleotide",
+            "Mechanism of action": "Slows conduction time through the AV Node; can interrupt re-entrant pathways; slows heart rate; acts directly on sinus pacemaker cells. Is drug of choice for PSVT.",
+            "Indications": "Conversion of PSVT to sinus rhythm. May convert PSVT due to Wolff-Parkinson- White syndrome. Not effective converting atrial fibrillation / flutter.",
+            "Contraindications": "Second or third-degree block or Sick Sinus Syndrome Atrial flutter / atrial fibrillation, Ventricular Tachycardia, Hypersensitivity to adenosine",
+            "Adverse Reactions": "Facial flushing, shortness of breath, chest pain, headache, paresthesia, diaphoresis, palpitations, hypotension, nausea, metallic taste.",
+            "Drug Interactions": "Methylxanthines (theophylline-like drugs) antagonize the effects of adenosine. Dipyridamole (Persantine) potentiates the effects of adenosine. Carbamazepine (Tegretol) may potentate the AV Node blocking effects of adenosine.",
+            "Dosage and Administration": {
+                "NREMT": {
+                    "Adult": {
+                        "1st Dose": {
+                            "Dose": 6,
+                            "Unit type": "mg",
+                            "How it is administered": "IV bolus pushed over 1-3 Seconds, If there is no response after 1-2 minutes go to the 2nd dose"
+                        },
+                        "2nd Dose": {
+                            "Dose": 12,
+                            "Unit type": "mg",
+                            "How it is administered": "IV bolus pushed over 1-3 Seconds"
+                        },
+                        "Maximum Total Dose": {
+                            "Dose": 18,
+                            "Unit type": "mg"
+                        }
+                        
+                    },
+                    "Pediatric": {
+                        "1st Dose": {
+                            "Dose": 0.1,
+                            "Unit type": "mg/kg",
+                            "How it is administered": "IV bolus pushed over 1-3 Seconds, If there is no response after 1-2 minutes go to the 2nd dose"
+                        },
+                        "2nd Dose": {
+                            "Dose": 0.2,
+                            "Unit type": "mg/kg",
+                            "How it is administered": "IV bolus pushed over 1-3 Seconds"
+                        },
+                        "Maximum Total Dose": {
+                            "Dose": 18,
+                            "Unit type": "mg"
+                        }
+                    }
+                }
+                
+            },
+            "Duration of action": "Onset and peak effects in seconds; duration 12 seconds.",
+            "Special Considerations": "Short half-life limits side effects in most patients. Pregnancy safety: Category C."
+        },
+        "ALBUTEROL (Proventil, Ventolin)":{
+            "Class": "Sympathomimetic, bronchodilator.",
+            "Mechanism of action": "Selective b-2 agonist which stimulates adrenergic receptors of the sympathomimetic nervous system resulting in smooth muscle relaxation in the bronchial tree and peripheral vasculature.",
+            "Indications": "Treatment of bronchospasm in patients with reversible obstructive airway disease (COPD/asthma).",
+            "Contraindications": "Known prior hypersensitivity reactions to Albuterol. Tachycardia, dysrhythmias, especially those caused by digitalis. Synergistic with other sympathomimetics",
+            "Adverse Reactions": "Often dose-related and include restlessness, tremors, dizziness, palpitations, tachycardia, nervousness, peripheral vasodilatation, nausea, vomiting, hyperglycemia, increased blood pressure and paradoxical bronchospasm",
+            "Drug Interactions": "Tricyclic antidepressants may potentate vasculature effects. Beta-blockers are antagonistic. May potentate hypokalemia caused by diuretics.",
+            "Dosage and Administration": {
+                "NREMT": {
+                    "Adult": {
+                        "1st Dose": {
+                            "Dose": 2.5,
+                            "Unit type": "mg",
+                            "How it is administered": " Dilute 0.5 ml of 0.5% solution for inhalation with 2.5 ml normal saline in nebulizer and administer over 10-15 minutes."
+                        }
+                    },
+                    "Pediatric": {
+                        "1st Dose": {
+                            "Dose": 2.5,
+                            "Unit type": "mg",
+                            "How it is administered": "in 6mL NS"
+                        }
+                    }
+                }
+            },
+            "Duration of action": "Onset in 5-15 minutes with peak effect in 30-minutes - two hours and duration of 3-4 hours.",
+            "Special Considerations": "Pregnancy Safety: Category C. Antagonized by beta-blockers (e.g., Inderal, Metoprolol).May precipitate angina pectoris and dysrhythmias. Should only be administered by inhalation methodology in pre-hospital management."
+        }
+    }
+}
