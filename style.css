@@ -1,0 +1,30 @@
+body, html {
+    /* The image used */
+    background-image: url('images/pedstruck.jpg'), url('/Users/mendelrosenblum/Downloads/1168a622-a0d9-4554-b42e-83fa3002d38e.JPG');
+    
+
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  h2 {
+      color: white;
+      text-align: center;
+  }
+  
+  h3 {
+        color: rgb(233, 240, 227);
+        text-align: center;
+  }
+  
