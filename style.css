@@ -19,6 +19,7 @@
 
 /*Info Styling*/
   #info{
+    color: white;
     position: fixed;
     left: 38%
   }
@@ -41,6 +42,15 @@
     color: white;
     text-align: center;
   }
+  h5 {
+    color: white;
+    text-align: center;
+  }
+  h6 {
+    color: white;
+    text-align: center;
+  }
+
 
 
 /* Med List Styling */

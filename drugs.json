@@ -3,70 +3,38 @@
 
         {
             "name": "ACETAMINOPHEN (Tylenol, Ofrimev)",
-            "Class": "An analgesic and anti-pyretic",
-            "Mechanism of action": "Acetaminophen is an analgesics and antipyretics. The exact mechanism of action of acetaminophen is not known. It may reduce the production of prostaglandins in the brain. Prostaglandins are chemicals that cause inflammation and swelling. Acetaminophen relieves pain by elevating the pain threshold, that is, by requiring a greater amount of pain to develop before a person feels it. It reduces fever through its action on the heat-regulating center of the brain. Specifically, it tells the center to lower the body's temperature when the temperature is elevated.",
-            "Indications": "An effective analgesic and anti-pyretic for the treatment of fever and pain.",
-            "Contraindications": "Allergy to medication. Severe liver disease.",
-            "Adverse Reactions": "",
-            "Drug Interactions": "",
-            "Dosage and Administration": {
-                "NREMT": {
-                    "Adult": {
-                        "1st Dose": {
-                            "Dose": "650 - 1000",
-                            "Unit type": "mg",
-                            "How it is administered": "PO q 4 hrs to a daily maximum of 3000 mg"
+            "class": "An analgesic and anti-pyretic",
+            "mechanismOfAction": "Acetaminophen is an analgesics and antipyretics. The exact mechanism of action of acetaminophen is not known. It may reduce the production of prostaglandins in the brain. Prostaglandins are chemicals that cause inflammation and swelling. Acetaminophen relieves pain by elevating the pain threshold, that is, by requiring a greater amount of pain to develop before a person feels it. It reduces fever through its action on the heat-regulating center of the brain. Specifically, it tells the center to lower the body's temperature when the temperature is elevated.",
+            "indications": "An effective analgesic and anti-pyretic for the treatment of fever and pain.",
+            "contraindications": "Allergy to medication. Severe liver disease.",
+            "adverseReactions": "",
+            "drugInteractions": "",
+            "dosageAndAdministration": {
+                "nremt": {
+                    "adult": {
+                        "firstDose": {
+                            "dose": "650 - 1000",
+                            "unitType": "mg",
+                            "howItIsAdministered": "PO q 4 hrs to a daily maximum of 3000 mg"
                         }    
                     },
-                    "Pediatric": {
-                        "1st Dose": {
-                            "Dose": 15,
-                            "Unit type": "mg/kg",
-                            "How it is administered": "PO or PR q 4 hrs"
-                        }
-                    }
-                },
-                "NYS (New York State)": {
-                    "Adult": {
-                        "1st Dose": {
-                            "Dose": "650 - 1000",
-                            "Unit type": "mg",
-                            "How it is administered": "PO q 4 hrs to a daily maximum of 3000 mg"
-                        }    
-                    },
-                    "Pediatric": {
-                        "1st Dose": {
-                            "Dose": 15,
-                            "Unit type": "mg/kg",
-                            "How it is administered": "PO or PR q 4 hrs"
-                        }
-                    }
-                },
-                "NYC REMAC": {
-                    "Adult": {
-                        "1st Dose": {
-                            "Dose": "650 - 1000",
-                            "Unit type": "mg",
-                            "How it is administered": "PO q 4 hrs to a daily maximum of 3000 mg"
-                        }    
-                    },
-                    "Pediatric": {
-                        "1st Dose": {
-                            "Dose": 15,
-                            "Unit type": "mg/kg",
-                            "How it is administered": "PO or PR q 4 hrs"
+                    "pediatric": {
+                        "1stDose": {
+                            "dose": 15,
+                            "unitType": "mg/kg",
+                            "howItIsAdministered": "PO or PR q 4 hrs"
                         }
                     }
                 }
             },
-            "Duration of action": "Onset: 30-45 minutes. Peak Effect: 30-60 minutes. Duration: 4-6 hrs",
-            "Special Considerations": "Avoid in patients with severe liver disease"
+            "durationOfAction": "Onset: 30-45 minutes. Peak Effect: 30-60 minutes. Duration: 4-6 hrs",
+            "specialConsiderations": "Avoid in patients with severe liver disease"
         },
 
         {
             "name": "ACTIVATED CHARCOAL",
             "Class": "Adsorbent",
-            "Mechanism of action": "Adsorbs toxic substances from the GI Tract; Onset of action is immediate",
+            "MechanismOfAction": "Adsorbs toxic substances from the GI Tract; Onset of action is immediate",
             "Indications": "Most oral poisonings and medication overdoses; can be used after evacuation of poisons.",
             "Contraindications": "AOral administration to comatose patient; after ingestion of corrosives, caustics or petroleum distillates (ineffective and may induce vomiting); simultaneous administration with other oral drugs",
             "Adverse Reactions": "May induce nausea and vomiting; may cause constipation; may cause black stools.",
@@ -128,7 +96,7 @@
         {   
             "name": "ADENOSINE (Adenocard)",
             "Class": "Endogenous Nucleotide",
-            "Mechanism of action": "Slows conduction time through the AV Node; can interrupt re-entrant pathways; slows heart rate; acts directly on sinus pacemaker cells. Is drug of choice for PSVT.",
+            "MechanismOfAction": "Slows conduction time through the AV Node; can interrupt re-entrant pathways; slows heart rate; acts directly on sinus pacemaker cells. Is drug of choice for PSVT.",
             "Indications": "Conversion of PSVT to sinus rhythm. May convert PSVT due to Wolff-Parkinson- White syndrome. Not effective converting atrial fibrillation / flutter.",
             "Contraindications": "Second or third-degree block or Sick Sinus Syndrome Atrial flutter / atrial fibrillation, Ventricular Tachycardia, Hypersensitivity to adenosine",
             "Adverse Reactions": "Facial flushing, shortness of breath, chest pain, headache, paresthesia, diaphoresis, palpitations, hypotension, nausea, metallic taste.",
@@ -366,7 +334,7 @@
         {
             "name": "AMIODARONE (Cordarone)",
             "Class": "Sympathomimetic, bronchodilator.",
-            "Mechanism of action": "Selective b-2 agonist which stimulates adrenergic receptors of the sympathomimetic nervous system resulting in smooth muscle relaxation in the bronchial tree and peripheral vasculature.",
+            "MechanismOfAction": "Selective b-2 agonist which stimulates adrenergic receptors of the sympathomimetic nervous system resulting in smooth muscle relaxation in the bronchial tree and peripheral vasculature.",
             "Indications": "Treatment of bronchospasm in patients with reversible obstructive airway disease (COPD/asthma).",
             "Contraindications": "Known prior hypersensitivity reactions to Albuterol. Tachycardia, dysrhythmias, especially those caused by digitalis. Synergistic with other sympathomimetics",
             "Adverse Reactions": "Often dose-related and include restlessness, tremors, dizziness, palpitations, tachycardia, nervousness, peripheral vasodilatation, nausea, vomiting, hyperglycemia, increased blood pressure and paradoxical bronchospasm",
@@ -485,7 +453,7 @@
         {
             "name": "AMYL NITRITE, SODIUM NITRITE, SODIUM THIOSULFATE (Cyanide Antidote Kit)",
             "Class": "Sympathomimetic, bronchodilator.",
-            "Mechanism of action": "Selective b-2 agonist which stimulates adrenergic receptors of the sympathomimetic nervous system resulting in smooth muscle relaxation in the bronchial tree and peripheral vasculature.",
+            "MechanismOfAction": "Selective b-2 agonist which stimulates adrenergic receptors of the sympathomimetic nervous system resulting in smooth muscle relaxation in the bronchial tree and peripheral vasculature.",
             "Indications": "Treatment of bronchospasm in patients with reversible obstructive airway disease (COPD/asthma).",
             "Contraindications": "Known prior hypersensitivity reactions to Albuterol. Tachycardia, dysrhythmias, especially those caused by digitalis. Synergistic with other sympathomimetics",
             "Adverse Reactions": "Often dose-related and include restlessness, tremors, dizziness, palpitations, tachycardia, nervousness, peripheral vasodilatation, nausea, vomiting, hyperglycemia, increased blood pressure and paradoxical bronchospasm",
@@ -3812,6 +3780,8 @@
             },
             "Duration of action": "Onset in 5-15 minutes with peak effect in 30-minutes - two hours and duration of 3-4 hours.",
             "Special Considerations": "Pregnancy Safety: Category C. Antagonized by beta-blockers (e.g., Inderal, Metoprolol).May precipitate angina pectoris and dysrhythmias. Should only be administered by inhalation methodology in pre-hospital management."
+        },
+
 
         {
             "name": "MANNITOL 20%",
