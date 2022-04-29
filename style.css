@@ -1,4 +1,5 @@
-body, html {
+/* Background of site */
+  body, html {
     /* The image used */
     background-image: url('images/pedstruck.jpg'), url('/images/mci.jpg'), url('images/hatzalah.JPG');
     
@@ -12,25 +13,67 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    /* filter: blur(5px); */
   }
-  
+
+
+/*Info Styling*/
+  #info{
+    position: fixed;
+    left: 38%
+  }
   h1 {
-    color: white;
+    color: white;      
     text-align: center;
   }
-  
+    
   h2 {
       color: white;
       text-align: center;
   }
   
   h3 {
-        color: rgb(233, 240, 227);
-        text-align: center;
+    color: white;
+    text-align: center;
   }
   
   h4 {
     color: white;
     text-align: center;
-}
+  }
+
+
+/* Med List Styling */
+
+
+  /* Style the tab */
+  .tab {
+    float: left;
+  }
+
+  /* Style the buttons that are used to open the tab content */
+  .tab button {
+    display: block;
+    background-color: inherit;
+    color: white;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+
+  /* Change background color of buttons on hover */
+  .tab button:hover {
+    background-color: #ddd;
+  }
+
+
+
+
+
+
+
   
