@@ -12,14 +12,62 @@
             "dosageAndAdministration": {
                 "nremt": {
                     "adult": {
-                        "firstDose": {
+                        "1st Dose": {
                             "dose": "650 - 1000",
                             "unitType": "mg",
                             "howItIsAdministered": "PO q 4 hrs to a daily maximum of 3000 mg"
                         }    
                     },
                     "pediatric": {
-                        "1stDose": {
+                        "1st Dose": {
+                            "dose": 15,
+                            "unitType": "mg/kg",
+                            "howItIsAdministered": "PO or PR q 4 hrs"
+                        }
+                    }
+                },
+                "nys": {
+                    "adult": {
+                        "1st Dose": {
+                            "dose": "650 - 1000",
+                            "unitType": "mg",
+                            "howItIsAdministered": "PO q 4 hrs to a daily maximum of 3000 mg"
+                        }    
+                    },
+                    "pediatric": {
+                        "1st Dose": {
+                            "dose": 15,
+                            "unitType": "mg/kg",
+                            "howItIsAdministered": "PO or PR q 4 hrs"
+                        }
+                    }
+                },
+                "nj": {
+                    "adult": {
+                        "1st Dose": {
+                            "dose": "650 - 1000",
+                            "unitType": "mg",
+                            "howItIsAdministered": "PO q 4 hrs to a daily maximum of 3000 mg"
+                        }    
+                    },
+                    "pediatric": {
+                        "1st Dose": {
+                            "dose": 15,
+                            "unitType": "mg/kg",
+                            "howItIsAdministered": "PO or PR q 4 hrs"
+                        }
+                    }
+                },
+                "remac": {
+                    "adult": {
+                        "1st Dose": {
+                            "dose": "650 - 1000",
+                            "unitType": "mg",
+                            "howItIsAdministered": "PO q 4 hrs to a daily maximum of 3000 mg"
+                        }    
+                    },
+                    "pediatric": {
+                        "1st Dose": {
                             "dose": 15,
                             "unitType": "mg/kg",
                             "howItIsAdministered": "PO or PR q 4 hrs"
@@ -34,21 +82,21 @@
         {
             "name": "ACTIVATED CHARCOAL",
             "Class": "Adsorbent",
-            "MechanismOfAction": "Adsorbs toxic substances from the GI Tract; Onset of action is immediate",
-            "Indications": "Most oral poisonings and medication overdoses; can be used after evacuation of poisons.",
-            "Contraindications": "AOral administration to comatose patient; after ingestion of corrosives, caustics or petroleum distillates (ineffective and may induce vomiting); simultaneous administration with other oral drugs",
-            "Adverse Reactions": "May induce nausea and vomiting; may cause constipation; may cause black stools.",
-            "Drug Interactions": "Bonds with and generally inactivates whatever it is mixed with, e.g., syrup of ipecac.",
-            "Dosage and Administration": {
-                "NREMT": {
-                    "Adult": {
+            "mechanismOfAction": "Adsorbs toxic substances from the GI Tract; Onset of action is immediate",
+            "indications": "Most oral poisonings and medication overdoses; can be used after evacuation of poisons.",
+            "contraindications": "AOral administration to comatose patient; after ingestion of corrosives, caustics or petroleum distillates (ineffective and may induce vomiting); simultaneous administration with other oral drugs",
+            "adverseReactions": "May induce nausea and vomiting; may cause constipation; may cause black stools.",
+            "drugInteractions": "Bonds with and generally inactivates whatever it is mixed with, e.g., syrup of ipecac.",
+            "dosageAndAdministration": {
+                "nrmet": {
+                    "adult": {
                         "1st Dose": {
-                            "Dose": "1 - 2",
-                            "Unit type": "g/kg",
-                            "How it is administered": "PO or via NGT"
+                            "dose": "1 - 2",
+                            "unitType": "g/kg",
+                            "howItIsAdministered": "PO or via NGT"
                         }    
                     },
-                    "Pediatric": {
+                    "pediatric": {
                         "1st Dose": {
                             "Dose": "1 - 2",
                             "Unit type": "g/kg",

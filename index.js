@@ -70,26 +70,40 @@ function buttonCallBack(drug){
     // append all the info up to dosage and administration to the dom
     info.append(name, drugClass, mechanismOfAction, indications, contraindications, adverseReactions, drugInteractions, dosageAndAdministration)
 
-    // If NREMT exists then create the section for the dosage and administration for it
-    if (drug.dosageAndAdministration.nremt){
-        // Create a element for NREMT dosing, add the content, append it to the dom
-        const nremt = document.createElement('h4');
-        nremt.innerHTML = `NREMT:`;
-        info.append(nremt)
-
-        // If adult dosages exists create the section for adult doses
-        if(drug.dosageAndAdministration.nremt.adult){
-            // Create a element for adult
-            const nremtAdult = document.createElement('h4');
-            nremtAdult.innerHTML = `Adult:`;
-
-            // Create a element for 1st Dose
-            const nremtAdult1stDose = document.createElement('h5');
-            nremtAdult1stDose.innerHTML = `1st Dose: <br> ${drug.dosageAndAdministration.nremt.adult.firstDose.dose} ${drug.dosageAndAdministration.nremt.adult.firstDose.unitType}<br> ${drug.dosageAndAdministration.nremt.adult.firstDose.howItIsAdministered}`
-            info.append(nremtAdult, nremtAdult1stDose)
-            for (const dose in drug.dosageAndAdministration.nremt.adult) {
-                console.log(dose);
-              }
+    // Create a section for each protocol that exits it will 
+    for(const protocol in drug.dosageAndAdministration){
+        console.log(protocol)
+        // Create a section for each protocol
+        for(const age in protocol){
+           
         }
     }
+    
 }
+
+
+
+
+
+// // If NREMT exists then create the section for the dosage and administration for it
+// if (drug.dosageAndAdministration.nremt){
+//     // Create a element for NREMT dosing, add the content, append it to the dom
+//     const nremt = document.createElement('h4');
+//     nremt.innerHTML = `NREMT:`;
+//     info.append(nremt)
+
+//     // If adult dosages exists create the section for adult doses
+//     if(drug.dosageAndAdministration.nremt.adult){
+//         // Create a element for adult
+//         const nremtAdult = document.createElement('h4');
+//         nremtAdult.innerHTML = `Adult:`;
+
+//         // Create a element for 1st Dose
+//         const nremtAdult1stDose = document.createElement('h5');
+//         nremtAdult1stDose.innerHTML = `1st Dose: <br> ${drug.dosageAndAdministration.nremt.adult.firstDose.dose} ${drug.dosageAndAdministration.nremt.adult.firstDose.unitType}<br> ${drug.dosageAndAdministration.nremt.adult.firstDose.howItIsAdministered}`
+//         info.append(nremtAdult, nremtAdult1stDose)
+//         for (const dose in drug.dosageAndAdministration.nremt.adult) {
+//             console.log(dose);
+//           }
+//     }
+// }
