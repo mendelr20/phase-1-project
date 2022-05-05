@@ -67,6 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Iterate through each button 
         for (i = 0; i < btns.length; i++) { 
             // If the buttons inner HTML in lower case does not include the search input it will hide it via CSS
+            // Did it like this so you can search a drug even if you know it by a different name
             if (!btns[i].innerHTML.toLowerCase().includes(input)) {
                 btns[i].style.display="none";
             }
