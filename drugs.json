@@ -594,30 +594,31 @@
 
         {
             "Name": "ONDANSETRON (Zofran)",
-            "Class": "",
-            "Mechanism Of Action": "",
-            "Indications": "",
-            "Contraindications": "",
-            "Adverse Reactions": "",
+            "Class": "Antiemetic",
+            "Mechanism Of Action": "Selective 5-HT receptor antagonist, blocking serotonin, both peripherally on vagal nerve terminals and centrally in the CNS chemoreceptor trigger zone",
+            "Indications": "Treatment and prevention of nausea and vomiting",
+            "Contraindications": "Hypersensitivity to ondansetron, other selective 5-HT3 antagonists, or any component of the formulation, Prolonged QT interval",
+            "Adverse Reactions": "Headache, drowsiness, pruritus, prolonged QT",
             "Drug Interactions": "",
-            "Adult Dosage": "",
-            "Pediatric Dosage": "",  
-            "Duration Of Action": "",
-            "Special Considerations": ""
+            "Adult Dosage": "4-8 mg IV or PO",
+            "Pediatric Dosage": " ≤30 kg: 1 mg IV; ≤30 kg: 2 mg IV.",  
+            "Duration Of Action": "Onset of action: ~30 minutes Half-life elimination: Children <5 years: 2-3 hours; Adults: 3-6 hours",
+            "Special Considerations": "Pregnancy safety: Category B, Do NOT give in pts with prolonged QT interval"
         },
 
         {
             "Name": "OXYGEN",
-            "Class": "",
-            "Mechanism Of Action": "",
-            "Indications": "",
-            "Contraindications": "",
-            "Adverse Reactions": "",
-            "Drug Interactions": "",
-            "Adult Dosage": "",
-            "Pediatric Dosage": "",  
-            "Duration Of Action": "",
-            "Special Considerations": ""
+            "Class": "Naturally occurring atmospheric gas.",
+            "Mechanism Of Action": "Reverses hypoxemia.",
+            "Indications": "Confirmed or expected hypoxemia. Ischemic chest pain. Respiratory insufficiency. Prophylactically during air transport. Confirmed or suspected carbon monoxide poisoning. All other causes of decreased tissue oxygenation. Decreased level of consciousness.",
+            "Contraindications": "Certain patients with COPD, emphysema who will not tolerate Oxygen concentrations over 35%. Hyperventilation.",
+            "Adverse Reactions": "Decreased level of consciousness and respiratory depression in patients with chronic CO2 retention. Retrolental fibroplasia if given in high concentrations to premature infants. (maintain 30-40% 02)",
+            "Drug Interactions": "None.",
+            "How Supplied": "Oxygen cylinders (usually green and white) of 100% compressed oxygen gas).",
+            "Adult Dosage": "Cardiac arrest and Carbon Monoxide poisoning: 100%. Hypoxemia: 10-15 L/ min. via non-rebreather. COPD: 0-2 L/ min. via nasal cannula or 28-35% venturi mask. Be prepared to provide ventilatory support if higher concentrations of oxygen needed.",
+            "Pediatric Dosage": "Same as for adult with exception of premature infant.",  
+            "Duration Of Action": "Onset: Immediate. Peak effect: not applicable. Duration: Less than 2 minutes.",
+            "Special Considerations": "Be familiar with liter flow and each type of delivery device used. Supports possibility of combustion."
         },
 
         {
