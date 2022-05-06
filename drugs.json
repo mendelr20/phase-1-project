@@ -623,30 +623,32 @@
 
         {
             "Name": "PANCURONIUM (Pavulon)",
-            "Class": "",
-            "Mechanism Of Action": "",
-            "Indications": "",
-            "Contraindications": "",
-            "Adverse Reactions": "",
-            "Drug Interactions": "",
-            "Adult Dosage": "",
-            "Pediatric Dosage": "",  
-            "Duration Of Action": "",
-            "Special Considerations": ""
+            "Class": "Neuromuscular blocker (non-depolarizing)",
+            "Mechanism Of Action": "Pancuronium produces complete muscular relaxation by binding to the receptor for acetylcholine at the neuromuscular junction, without initiating depolarization of the muscle membrane. As the concentration of acetylcholine rises in the neuromuscular junction, Pancuronium is displaced and muscle tone is regained.",
+            "Indications": "In emergency care, Pancuronium is used to optimize conditions for endotracheal intubation and assisted ventilations. Induction or maintenance of paralysis after intubation to assist ventilations.",
+            "Contraindications": "Known hypersensitivity to the drug. Inability to control airway and/or support ventilations with oxygen and positive pressure Neuromuscular disease (e.g., myasthenia gravis)",
+            "Adverse Reactions": "Transient hypotension Tachycardia, Dysrhythmias, Hypertension, Excessive salivation, Pain, burning at IV injection site",
+            "Drug Interactions": "Positive chronotropic drugs may potentiate tachycardia.",
+            "Adult Dosage": "0.04-0.1 mg/kg slow IV; repeat q 30-60 min prn",
+            "Pediatric Dosage": "0.04-0.1 mg/kg slow IV",
+            "Newborn Dosage": "0.02 mg/kg dose", 
+            "Duration Of Action": " Onset: Paralysis in 3-5 min Duration: 45-60 min",
+            "Special Considerations": "Pregnancy safety: Category C, Patients must be sedated completely and have an artificial airway during paralysis. Carefully monitor the patient and be prepared to resuscitate. Pancuronium has no effect on consciousness or pain. Pancuronium will not stop neuronal seizure activity or decrease central nervous system damage caused by seizures. Heart rate and cardiac output will be increased. Pancuronium is excreted in the urine; doses should be decreased for patients with renal disease. Neuromuscular blocking agents result in respiratory paralysis. Therefore, intubation and ventilatory support must be readily available."
         },
 
         {
             "Name": "PRALIDOXIME CHLORIDE (2-PAM, Protopam)",
-            "Class": "",
-            "Mechanism Of Action": "",
-            "Indications": "",
-            "Contraindications": "",
-            "Adverse Reactions": "",
-            "Drug Interactions": "",
-            "Adult Dosage": "",
-            "Pediatric Dosage": "",  
-            "Duration Of Action": "",
-            "Special Considerations": ""
+            "Class": "Cholinesterase reactivator",
+            "Mechanism Of Action": "Reactivation of cholinesterase to effectively act as an antidote to organophosphate pesticide poisoning. This action allows for destruction of accumulated acetylcholine at the neuromuscular junction.",
+            "Indications": "As an antidote in the treatment of poisoning by organophosphate pesticides and chemicals. In the pre-hospital arena, is used when atropine is or has become ineffective in management of organophosphate poisoning.",
+            "Contraindications": "Use with caution in patients with reduced renal function. Patients with myasthenia gravis and organophosphate poisoning.",
+            "Adverse Reactions": "Dizziness, blurred vision, diplopia, headache, drowsiness, nausea, tachycardia, hyperventilation, muscular weakness, excitement and manic behavior",
+            "Drug Interactions": "No direct drug interactions, however, patients with organophosphate poisoning should not be given barbiturates, morphine, theophylline, aminophylline, succinylcholine, reserpine and phenothiazines.",
+            "How Supplied": "Emergency Single Dose Kit containing: One 20 ml vial of 1gram sterile Protopam Chloride One 20 ml ampule of sterile diluent.Sterile, disposable 20 ml syringe.Needle and alcohol swab.",
+            "Adult Dosage": "Initial dose of 1-2 grams as an IV infusion with 100 ml saline over 15-30 minutes.",
+            "Pediatric Dosage": "20-40 mg/kg as IV infusion over 15-30 minutes. Doses may be repeated every 1 (one) hour if muscle weakness persists. If IV administration is not feasible, IM or SC injection may be utilized.",  
+            "Duration Of Action": "Onset: Minutes Peak effects: Variable. Duration: Variable",
+            "Special Considerations": "NOTE: If Protopam is to be used, administer almost simultaneously with atropine. Pregnancy safety: unknown. Treatment will be most effective if given within a few hours after poisoning. Cardiac monitoring should be considered in all cases of severe organophosphate poisoning."
         },
 
         {
