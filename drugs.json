@@ -551,44 +551,45 @@
 
         {
             "Name": "NITROGLYCERIN",
-            "Class": "",
-            "Mechanism Of Action": "",
-            "Indications": "",
-            "Contraindications": "",
-            "Adverse Reactions": "",
-            "Drug Interactions": "",
-            "Adult Dosage": "",
-            "Pediatric Dosage": "",  
-            "Duration Of Action": "",
-            "Special Considerations": ""
+            "Class": "Vasodilators.",
+            "Mechanism Of Action": "Smooth muscle relaxant acting on vascular, bronchial, uterine and intestinal smooth muscle. Dilation of arterioles and veins in the periphery, reduces preload and afterload, decreases the workload of the heart and, thereby, myocardial oxygen demand.",
+            "Indications": "Acute angina pectoris. Ischemic chest pain. CHF, pulmonary edema.",
+            "Contraindications": "Hypotension, hypovolemia. Intracranial bleeding or head injury.",
+            "Adverse Reactions": "Headache, hypotension, syncope, reflex tachycardia, flushing. Nausea, vomiting, diaphoresis, muscle twitching.",
+            "Drug Interactions": "Additive effects with other vasodilators.",
+            "Adult Dosage": "Tablets: 0.3 mg SL; may repeat in 3-5 minutes to maximum of 3 doses. NTG spray: 0.4 mg on or under the tongue; 1-2 sprays, may repeat in 3-5 minutes",
+            "Pediatric Dosage": "Not recommended.",  
+            "Duration Of Action": "Onset: 1-3 minutes. Peak effect: 5-10 minutes. Duration: 20-30 minutes or if IV, 1-10 minutes after discontinuation of infusion.",
+            "Special Considerations": "Pregnancy safety: category C. Hypotension more common in geriatric population. NTG decomposes if exposed to light or heat. Must be kept in airtight containers.  Active ingredient may have a stinging effect when administered SL."
         },
 
         {
             "Name": "NITROPASTE",
-            "Class": "",
-            "Mechanism Of Action": "",
-            "Indications": "",
-            "Contraindications": "",
-            "Adverse Reactions": "",
+            "Class": "Vasodilator",
+            "Mechanism Of Action": "Smooth muscle relaxant acting on vascular, bronchial, uterine and intestinal smooth muscle. Dilation of arterioles and veins in the periphery reduces preload and afterload, decreases the workload of the heart and, thereby, myocardial oxygen demand.",
+            "Indications": "Angina pectoris and chest pain associated with acute MI, CHF/PE; Hypertension (HTN).",
+            "Contraindications": "Hypotension, hypovolemia, Intracranial bleeding or head injury.",
+            "Adverse Reactions": "Headache, hypotension, syncope, reflex tachycardia, flushing. Nausea, vomiting, diaphoresis, muscle twitching.",
+            "How Supplied": "Topical Ointment: (Nitrolâ) 2% [20 mg/g] (30g, 60g)",
             "Drug Interactions": "",
-            "Adult Dosage": "",
-            "Pediatric Dosage": "",  
-            "Duration Of Action": "",
-            "Special Considerations": ""
+            "Adult Dosage": "For CHF/PE; HTN, Paste: Apply 1 inch, cover with plastic wrap and secure with tape.",
+            "Pediatric Dosage": "Not recommended.",  
+            "Duration Of Action": "Onset: 30 minutes. Peak effect: Variable. Duration: 18-24 hours.",
+            "Special Considerations": "Pregnancy safety: Category C. Apply in thin uniform layer on non-hairy area. 1-inch equals approximately 15 mg nitroglycerin. Avoid using fingers to spread paste. Store past in cool place with tube tightly capped. Erratic absorption rates quite common."
         },
 
         {
             "Name": "NOREPINEPHRINE (Levophed)",
-            "Class": "",
-            "Mechanism Of Action": "",
-            "Indications": "",
-            "Contraindications": "",
+            "Class": "Vasopressor",
+            "Mechanism Of Action": "Potent alpha-agonist resulting in intense peripheral vasoconstriction, positive chronotropic and increased inotropic effect with increased cardiac output. Aplha adrenergic activity resulting in peripheral vasoconstriction and beta-adrenergic activity leading to inotropic stimulation of the heart and coronary artery vasodilation.",
+            "Indications": "Cardiogenic shock unresponsive to fluid resuscitation, significant hypotension (<70 mm/Hg) states, first line vasopressor in septic shock.",
+            "Contraindications": "Hypotensive patients with hypovolemia, pregnancy (relative). Adverse Reactions: Headache, anxiety, dizziness, restlessness, dyspnea, bradycardia, hypertension, dysrhythmias, chest pain, peripheral cyanosis, cardiac arrest, nausea, vomiting, urinary retention, renal failure, decreased blood flow to the GI tract, kidneys and skeletal muscle and skin, tissue necrosis from extravasation.",
             "Adverse Reactions": "",
-            "Drug Interactions": "",
-            "Adult Dosage": "",
-            "Pediatric Dosage": "",  
-            "Duration Of Action": "",
-            "Special Considerations": ""
+            "Drug Interactions": "Can be deactivated by alkaline solutions. Sympathomimetic and phosphodiesterase inhibitors may exacerbate dysrhythmias.",
+            "Adult Dosage": "0.1-0.5 mcg/kg/min titrating to a BP of 90 systolic.",
+            "Pediatric Dosage": "0.1-2 mcg/kg/min, titrate rate to achieve desired change in BP and systemic perfusion.",  
+            "Duration Of Action": "Onset: 1-3 minutes, Peak Effect: Variable, Duration: 5-10 minutes. Effects last only 1 minute after infusion discontinued.",
+            "Special Considerations": "Pregnancy Safety: Category C. Use cautiously during pregnancy and while breastfeeding. May cause fetal anoxia when used in pregnancy. Infuse norepinephrine through a large, stable vein to avoid extravasation and tissue necrosis. Drug or poison induced hypotension may require higher doses to achieve adequate perfusion."
         },
 
         {
