@@ -653,15 +653,15 @@
 
         {
             "Name": "PROCAINAMIDE (Pronestyl)",
-            "Class": "",
-            "Mechanism Of Action": "",
-            "Indications": "",
-            "Contraindications": "",
-            "Adverse Reactions": "",
+            "Class": "Antidysrhythmic Class Ia",
+            "Mechanism Of Action": "Suppresses phase IV depolarization in normal ventricular muscle and Purkinje fibers, reducing automaticity of ectopic pacemakers; suppresses reentry dysrhythmias by slowing intraventricular conduction.",
+            "Indications": "Suppress PVCs refractory to Lidocaine. Suppress VT with a pulse refractory to Lidocaine. PSVTs with wide-complex tachycardia of unknown origin (drug of choice when associated with WP).",
+            "Contraindications": "Second- and Third-Degree block, Torsades de Pointes, Lupus, Digitalis toxicity, Myasthenia gravis.",
+            "Adverse Reactions": "PR, QRS, and QT widening, AV Block, cardiac arrest, hypotension, seizures. Nausea, vomiting, reflex tachycardia, PVCs, VT, VF. CNS depression, confusion.",
             "Drug Interactions": "",
-            "Adult Dosage": "",
-            "Pediatric Dosage": "",  
-            "Duration Of Action": "",
+            "Adult Dosage": "20-30 mg/min; maximum total dose is 17 mg/kg. Maintenance infusion: 1-4 mg/min.",
+            "Pediatric Dosage": "2-6 mg/kg IV at less than 20 mg/min; maximum dose is 17mg/kg. Maintenance infusion: 20-80 micrograms/kg/min.",  
+            "Duration Of Action": "Onset: 10-30 minutes. Peak effect: Variable. Duration: 3-6 hours.",
             "Special Considerations": ""
         },
 
