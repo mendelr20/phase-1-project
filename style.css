@@ -68,11 +68,13 @@ h6 {
   text-align: center;
 }
 
-
-
-/* Med List Styling */
-
-
+.search-container{
+  /* top: 0;
+  bottom:0; */
+  position:fixed;
+  /* overflow-y:scroll;
+  overflow-x:hidden; */
+}
 /* Style the tab */
 .tab {
   float: left;

@@ -1,6 +1,6 @@
 {
     "drugs":[
-
+        
         {
             "Name": "ACETAMINOPHEN (Tylenol, Ofrimev)",
             "Class": "An analgesic and anti-pyretic",
@@ -523,30 +523,30 @@
 
         {
             "Name": "MORPHINE SULFATE",
-            "Class": "",
-            "Mechanism Of Action": "",
-            "Indications": "",
-            "Contraindications": "",
-            "Adverse Reactions": "",
-            "Drug Interactions": "",
-            "Adult Dosage": "",
-            "Pediatric Dosage": "",  
-            "Duration Of Action": "",
-            "Special Considerations": ""
+            "Class": "Opioid analgesic. (Schedule II drug).",
+            "Mechanism Of Action": "Alleviates pain through CNS actions. Suppresses fear and anxiety centers in brain. Depresses brain stem respiratory centers. Decreases preload and afterload, decreasing myocardial oxygen demand.",
+            "Indications": "Analgesia for moderate to severe acute and chronic pain (use with caution). Severe CHF, pulmonary edema. Chest pain associated with acute MI.",
+            "Contraindications": "Head injury, exacerbated COPD, depressed respiratory drive, hypotension undiagnosed abdominal pain, decreased level of consciousness. Suspected hypovolemia.",
+            "Adverse Reactions": "Respiratory depression, hypotension, decreased level of consciousness, nausea, vomiting. Bradycardia, tachycardia, syncope, facial flushing, euphoria, bronchospasm, dry mouth.",
+            "Drug Interactions": "CNS depressant may potentate effects of morphine.",
+            "Adult Dosage": "0.1 mg/kg to a maximum of 10 mg IV/IM/SC",
+            "Pediatric Dosage": "0.1 - 0.2 mg/kg / dose IV, IO, IM, SC every 5 minutes titrated to max. of 5 mg.",  
+            "Duration Of Action": "Onset: Immediate. Peak effect: 20 minutes. Duration: 2 - 7 hours.",
+            "Special Considerations": "Pregnancy safety: Category C. Morphine rapidly crosses the placenta. Safety in neonate not established. Use with caution in geriatric population and those with COPD, asthma. Naloxone should be readily available as antidote."
         },
 
         {
             "Name": "NALOXONE (Narcan)",
-            "Class": "",
-            "Mechanism Of Action": "",
-            "Indications": "",
-            "Contraindications": "",
-            "Adverse Reactions": "",
-            "Drug Interactions": "",
-            "Adult Dosage": "",
-            "Pediatric Dosage": "",  
-            "Duration Of Action": "",
-            "Special Considerations": ""
+            "Class": "Narcotic antagonist.",
+            "Mechanism Of Action": "Competitive inhibition at narcotic receptor sites. Reverse respiratory depression secondary to depressant drugs. Completely inhibits the effect of morphine.",
+            "Indications": "Respiratory Depression Secondary to Opiate overdose. Complete or partial reversal of CNS and respiratory depression induced by opioids. Narcotic agonist: Morphine, heroin, hydromorphone (Dilaudid), methadone. Meperidine (Demerol), Paregoric, Fentanyl (Sublimase). Oxycodone (Percodan), codeine, propoxyphene (Darvon). Narcotic agonist and antagonist Butorphanol (Stadol). Pentazocine (Talwin). Nalbuphine (Nubain).",
+            "Contraindications": "Use with caution in narcotic-dependent patients. Use with caution in neonates of narcotic-addicted mothers.",
+            "Adverse Reactions": "Withdrawal symptoms in the addicted patient. Tachycardia, hypertension, dysrhythmias, nausea, vomiting, diaphoresis.",
+            "Drug Interactions":"",
+            "Adult Dosage":  "0.4 - 2.0 mg IV, IM, SC, Nasal via atomizer); min. recommended = 2.0 mg repeat at 5 minute intervals to 10 mg maximum dose. (Medical Control may request higher amounts). Infusion: 2 mg in 500 ml of D5W (4 mcg/ml), infuse at 0.4 mg / hr. (100 ml/hour).",
+            "Pediatric Dosage": "0.1 mg/kg / dose IV, IM, SC, ET (diluted); maximum of 0.8 mg; if no response in 10 minutes, administer an additional 0.1 mg/kg /dose.",  
+            "Duration Of Action": "Onset: within 2 minutes. Peak effect: variable. Duration: 30-60 minutes.",
+            "Special Considerations": "Pregnancy safety: category B. Seizures without causal relationship have been reported. May not reverse hypotension. Use caution when administering to narcotic addicts (violent behavior, etc.)."
         },
 
         {
