@@ -69,6 +69,749 @@
             "Pediatric Dosage": " 5mg/kg slow IV Push over 1-2 minutes in 10 ml Normal Saline,",  
             "Duration Of Action": "Onset: Within 5-15 minutes. Peak Effect: Variable. Duration: Variable",
             "Special Considerations": "Pregnancy safety: Category C, Administer cautiously in patients with Heart Failure or poor systolic function."
+        },
+
+        {
+            "Name": "AMYL NITRITE, SODIUM NITRITE, SODIUM THIOSULFATE (Cyanide Antidote Kit))",
+            "Class": "Antidote.",
+            "Mechanism Of Action": "Amyl Nitrite: affinity for cyanide ions; reacts with hemoglobin to form methemoglobin (low toxicity). Sodium Nitrite: same as amyl nitrite. Sodium Thiosulfate: produces thiocyanate, which is then excreted.",
+            "Indications": "Cyanide or hydrocyanic acid poisoning.",
+            "Contraindications": "Not applicable.",
+            "Adverse Reactions": "Excessive doses of amyl nitrite and sodium nitrite can produce severe, life-threatening methemoglobinemia. Use only recommended doses.",
+            "Drug Interactions": "None.",
+            "Adult Dosage": "Amyl nitrite: breathe 30 seconds out of every minute. Sodium Thiosulfate and sodium nitrite: IV per antidote kit directions.",
+            "Pediatric Dosage": "Amyl nitrite: breathe 30 seconds out of every minute. Sodium Thiosulfate and sodium nitrite: IV per antidote kit directions.",  
+            "Duration Of Action": "Variable.",
+            "Special Considerations": "Cyanide poisoning must be recognized quickly and treated quickly; if pulse persists, even in presence of apnea, prognosis is good with treatment. The antidote kit must be used in conjunction with administration of oxygen."
+        },
+
+        {
+            "Name": "ASPIRIN",
+            "Class": "Platelet inhibitor, anti-inflammatory agent.",
+            "Mechanism Of Action": "Prostaglandin inhibition (makes the platelets less sticky)",
+            "Indications": "Chest pain suggestive of Acute Myocardial Infarction.",
+            "Contraindications": "Hypersensitivity. Gastrointestinal bleeding. Signs and symptoms suggestive of recent cerebrovascular accident.",
+            "Adverse Reactions": "Heartburn. GI bleeding. Nausea, vomiting. Wheezing in allergic patients. Prolonged bleeding.",
+            "Drug Interactions": "Use with caution in patients allergic to NSAIDS.",
+            "Adult Dosage": "162 mg to 324 mg PO.",
+            "Pediatric Dosage": "Not recommended in pediatric population.",
+            "Duration Of Action": "Onset: 30-45 minutes. Peak effect: variable. Duration: Variable.",
+            "Special Considerations": "Pregnancy Safety: Category D. Not recommended in pediatric population."
+        },
+
+        {
+            "Name": "ATROPINE SULFATE",
+            "Class": "Anticholinergic agent.",
+            "Mechanism Of Action": "Increases conduction through the AV Node. Increases heart rate in life-threatening bradydysrhythmias. Parasympatholytic: inhibits action of acetylcholine at postganglionic parasympathetic neuroeffector sites.",
+            "Indications": "Hemodynamically significant bradycardia. Drug of choice for organophosphate poisoning.",
+            "Contraindications": "Tachycardia. Hypersensitivity. Unstable cardiovascular status in acute hemorrhage and myocardial ischemia.",
+            "Adverse Reactions": "Headache, dizziness, palpitations, nausea and vomiting. Tachycardia, dysrhythmias, anticholinergic effects (blurred vision, dry mouth, urinary retention). Paradoxical bradycardia when pushed slowly or at low doses. Flushed, hot dry skin. ",
+            "Drug Interactions": "Effects enhanced by antihistamines, antipsychotics, benzodiazepines and antidepressants.",
+            "Adult Dosage": "Bradydysrhythmias: 1mg IV every 3-5 minutes as needed to a maximum total dose of 3mg",
+            "Pediatric Dosage": " Bradydysrhythmias: 0.02 mg/kg IV / ET / IO (minimum single dose 0.1 mg, maximum single dose 1.0 mg).",  
+            "Duration Of Action": "Onset: Immediate. Peak Effect: Rapid to 1-2 minutes. Duration: 2-6 hours.",
+            "Special Considerations": "Pregnancy Safety: Category C. Moderate doses dilate pupils."
+        },
+
+        {
+            "Name": "CALCIUM CHLORIDE / CALCIUM GLUCONATE",
+            "Class": "Electrolyte.",
+            "Mechanism Of Action": "Increases cardiac contractile state (positive inotropic effect). May enhance ventricular automaticity. Helps stabilize the cell membrane",
+            "Indications": "Hyperkalemia, Magnesium sulfate overdose Calcium channel blocker toxicity Crush syndrome.",
+            "Contraindications": "Hypercalcemia, VF during cardiac resuscitation; digitalis toxicity.",
+            "Adverse Reactions": "Bradycardia, asystole, hypotension, peripheral vasodilatation, metallic taste, local necrosis, coronary and cerebral artery spasm, nausea, vomiting.",
+            "Drug Interactions": "Do not mix with Sodium Bicarbonate in running IV, flush prior to administration in same IV line. May worsen dysrhythmias secondary to digitalis. May antagonize effects of Verapamil.",
+            "Adult Dosage": " 500-1000 mg of 10% solution slowly IV over 5 minutes; may repeat in 10 minutes. (maximum: 1 gm dose)",
+            "Pediatric Dosage": "20 mg/kg/dose of 10% solution slow IV/ IO (maximum: 1 gm dose); (may repeat in 10 minutes.)",  
+            "Duration Of Action": "Onset: 5-15 minutes. Peak effects: 3-5 minutes. Duration: 15-30 minutes but may persist for 4 hours (dose dependent).",
+            "Special Considerations": "Pregnancy safety: Category C. For pediatrics: if calcium gluconate is unavailable, 1-2 ml of 10% calcium chloride solution, diluted with IV fluid, may be substituted."
+        },
+
+        {
+            "Name": "DEXAMETHASONE (Decadron)",
+            "Class": "Corticosteroid.",
+            "Mechanism Of Action": "Suppresses acute and chronic inflammation, immunosuppressive effects.",
+            "Indications": "Anaphylaxis, asthma, spinal cord injury, croup, elevated intracranial pressure (prevention and treatment), as an adjunct to treatment of shock.",
+            "Contraindications": "Hypersensitivity to product.",
+            "Adverse Reactions": "Hypertension, sodium and water retention, GI bleeding. None from single dose.",
+            "Drug Interactions": "Calcium, Metaraminol.",
+            "Adult Dosage": "10-100 mg IV (1 mg/kg slow IV bolus). (considerable variance through Medical Control).",
+            "Pediatric Dosage": "0.25-1.0 mg/kg/dose IV, IO, IM.",  
+            "Duration Of Action": "Onset: Hours. Peak effects: 8-12 hours. Duration: 24-72 hours.",
+            "Special Considerations": " Pregnancy safety: unknown. Protect medication form heat. Toxicity and side effects with long-term use."
+        },
+
+        {
+            "Name": "DEXTROSE",
+            "Class": "Carbohydrate, hypertonic solution.",
+            "Mechanism Of Action": "Rapidly increases serum glucose levels.",
+            "Indications": "Altered level of consciousness secondary to hypoglycemia",
+            "Contraindications": "Intracranial hemorrhage Delirium tremens",
+            "Adverse Reactions": "Extravagation leads to tissue necrosis. Warmth, pain, burning, thrombophlebitis, rhabdomyositis.",
+            "Drug Interactions": "Sodium bicarbonate, coumadin.",
+            "Adult Dosage": "12.5-25 gram slow IV; may be repeated as necessary.",
+            "Pediatric Dosage": "0.5-1 gram/kg/dose slow IV; may be repeated as necessary.",  
+            "Duration Of Action": "Onset: less than 1 minute. Peak effects: variable. Duration: Variable. ",
+            "Special Considerations": "Draw blood sugar before administering. Do not administer to patients with known CVA unless hypoglycemia documented."
+        },
+
+        {
+            "Name": "DIAZEPAM (Valium)",
+            "Class": "Benzodiazepine, anticonvulsant, sedative-hypnotic",
+            "Mechanism Of Action": "Potentates effects of inhibitory neurotransmitters. Raises seizure threshold. Induces amnesia and sedation.",
+            "Indications": "Status Seizure, Acute anxiety states, Analgesia for medical procedures (fracture reduction, cardioversion), Delirium tremens.",
+            "Contraindications": "Hypersensitivity, glaucoma. coma, shock, substance abuse, head injury.",
+            "Adverse Reactions": "Respiratory depression, hypotension, drowsiness, ataxia, reflex tachycardia, nausea, confusion.",
+            "Drug Interactions": "",
+            "Adult Dosage": "Seizure activity: 5-10 mg IV q 10-15 minutes prn (5 mg over 5 min.) (maximum dose = 30 mgs). Rectal diazepam: 0.5 mg/kg via 2” rectal catheter and flush with 2-3 ml air after administration. Sedation for cardioversion: 5- 15 mg IV over 5-10 minutes prior to cardioversion.",
+            "Pediatric Dosage": "Seizure activity: 0.2 mg/kg/dose IV every 15-30 minutes (no faster than 3 mg over 5 minutes) (max. = 10 mg). Rectal diazepam: 0.5 mg/kg via 2” rectal catheter and flush with 2-3 ml air after administration. Sedation for cardioversion: 5- 15 mg IV over 5-10 minutes prior to cardioversion.",  
+            "Duration Of Action": "Onset: 1-5 minutes. Peak effect: minutes. Duration: 20-50 minutes.",
+            "Special Considerations": "Pregnancy safety: Category D. Short duration of anticonvulsant effect. Reduce dose 50% in elderly patient."
+        },
+
+        {
+            "Name": "DILTIAZEM HCL (Cardizem)",
+            "Class": "Calcium channel blocker",
+            "Mechanism Of Action": "Block influx of calcium ions into cardiac muscle Arterial and venous vasodilator. Reduces preload and afterload. Reduces myocardial oxygen demand.",
+            "Indications": "Atrial flutter,/Atrial fibrillation with rapid ventricular rates.vv",
+            "Contraindications": "Wide-complex tachycardia Sick sinus syndrome Cardiogenic shock.",
+            "Adverse Reactions": "Bradycardia, second or third-degree AV blocks, chest pain, CHF, syncope. V-Fib, V-tach, nausea, vomiting, dizziness, dry mouth, dyspnea, headache.",
+            "Drug Interactions": "Caution in patients using medications that affect cardiac contractility. In general, should not be used in patients on Beta-blockers.",
+            "Adult Dosage": "Initial bolus: 0.25 mg/ kg (average dose 20 mg) IV over two (2) minutes. If inadequate response may re-bolus in 15 minutes: 0.35 mg/kg IV over two (2) minutes.",
+            "Pediatric Dosage": "Not recommended.",  
+            "Duration Of Action": "Onset: 2-5 minutes. Peak effect: Variable. Duration: 1-3 hours.",
+            "Special Considerations": "Pregnancy safety: category C. Use in caution in patients with renal or hepatic dysfunction."
+        },
+
+        {
+            "Name": "DIPHENHYDRAMINE (Benadryl)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "DOPAMINE (Inotropin)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "EPINEPHRINE",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "ETOMIDATE (Amidate)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "FENTANYL CITRATE (Sublimaze)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "FLUMAZENIL (Romazicon)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "FUROSEMIDE (Lasix)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "GLUCAGON",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "GLUCOSE - ORAL",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "HALOPERIDOL (Haldol)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "HEPARIN SODIUM",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "HYDROCORTISONE/METHYLPREDNISOLONE (Solu-Cortef, Solu-Medrol)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "HYDROXOCOBALAMIN (Vitamin B 12)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+
+        {
+            "Name": "HYDROMORPHONE (Dilaudid)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "IPRATROPIUM BROMIDE (Atrovent)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "KETAMINE (Ketalar)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "KETOROLAC (Toradol)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "LIDOCAINE HCL (2%)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "LORAZEPAM (Ativan)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "MAGNESIUM SULFATE",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "MANNITOL 20%",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "MEPERIDINE (Demerol)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "METOPROLOL (Lopressor)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "MIDAZOLAM (Versed)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "MORPHINE SULFATE",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "NALOXONE (Narcan)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "NITROGLYCERIN",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "NITROPASTE",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "NOREPINEPHRINE (Levophed)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "ONDANSETRON (Zofran)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "OXYGEN",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "PANCURONIUM (Pavulon)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "PRALIDOXIME CHLORIDE (2-PAM, Protopam)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "PROCAINAMIDE (Pronestyl)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "PROMETHAZINE (Phenergan)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "RACEMIC EPINEPHRINE",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "ROCURONIUM (Zemuron)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "SODIUM BICARBONATE 8.4%",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "SUCCINYLCHOLINE (Anectine)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "TETRACAINE",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "THIAMINE (Vitamin B1)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "TRANEXAMIC ACID (TXA, Cyklokapron)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "VASOPRESSIN (Pitressin) ",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "VECURONIUM (Norcuron)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
+        },
+
+        {
+            "Name": "VERAPAMIL (Isoptin)",
+            "Class": "",
+            "Mechanism Of Action": "",
+            "Indications": "",
+            "Contraindications": "",
+            "Adverse Reactions": "",
+            "Drug Interactions": "",
+            "Adult Dosage": "",
+            "Pediatric Dosage": "",  
+            "Duration Of Action": "",
+            "Special Considerations": ""
         }
     ]
 }
