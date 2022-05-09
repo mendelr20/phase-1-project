@@ -1,28 +1,22 @@
-# phase-1-project-plan
+# EMS Drugs / Medication Application
 
-# End Goal
-Build a application with drugs used by EMT's/Paramedics in the field.
+## Description
 
-- The application will include a list of drugs used in NREMT, NYS with a subdivision for NYC REMAC, NJ (possibly Massachusets as well) reflecting the latest protocols.
-- The list of Drugs will include in each individual drug: Drug class, Mechanism of Action, Indications, Contraindications, Dosage (including for each use and for 1st dose, 2nd dose, and all subsequent doses when applicable ) and administration for each usage and for adult and pediatric, Duration of onset, and Special Considerations.
+EMS Drugs / Medication Application is a JavaScript application that uses all the drugs / medications from the NMETC (National Medical Education & Training Center Inc) Paramedic program which i am currently attending. In the application, the user can view a brief description of why the application was created and why i believe it is important as well as a list of all the drugs which are able to be searched for in a search bar. In the list of drugs each drugs is clickable, when a drug is clicked it will bring up all the information for that drug including the name, class, mechanism of action, indications, contraindications, adverse reactions, drug interactions, adult dosage, pediatric dosage, duration of action, and special considerations.
 
-# Features of the Application
-- Sort medications base on:
-  - Certification Level.
-  - State/accreditation and only pull up the medications that are used in that Ems System.
-  - Indications/condition
-  - Class
-- When a medication is clicked on it will display the medications information.
-- When you click Calculate Drug Dose it will calculate the dose based on:
-  - It will pull up the COH (Concentration on hand), select my COH (Concentration on hand), or create it by inputting drug amount in how much fluid.
-  - I will be able to select which condition the medication is being administered for.
-  - I will have the ability to change the generic from adult to pediatric if it is a drug that is administered to pediatrics as well.
-  - I will be able to select which Dose.
-  -   I will be able to put in the patients weight if it is a weight based dosage.
-  -  I will be able to put in the patients age if the dosage goes by age and if it is a drug with a minimum or maximum age it will required it and indicate if it is not allowed.
-  - If it is a Drug that is delivered via a infusion over a certain amount of time it will be able to calculate based on:
-  -  What size drip set it is.
-- A standard Drug Calculator which will be able to calculate based on all the above mentioned features.
+## Installation
+
+To install, fork and clone this repository. Once you've cloned this repository in your terminal, ```cd``` into the correct folder.
+
+## Usage
+
+To get started, type ```json-server --watch db.json``` in the terminal to start up the server, then type ```open index.html``` (for macOS) or ```explorer.exe``` (for Windows OS). The web application will load to a description of the application and why it was created, and a list of the medications with a search bar where you can click on the drug to see all its info as it pertains to NREMT - Paramedic
+
+## Contribution
+
+Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change. 
+
+
 
 
 
