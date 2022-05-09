@@ -10,7 +10,7 @@ To install, fork and clone this repository. Once you've cloned this repository i
 
 ## Usage
 
-To get started, type ```json-server --watch db.json``` in the terminal to start up the server, then type ```open index.html``` (for macOS) or ```explorer.exe``` (for Windows OS). The web application will load to a description of the application and why it was created, and a list of the medications with a search bar where you can click on the drug to see all its info as it pertains to NREMT - Paramedic
+To get started, type ```json-server --watch db.json``` in the terminal to start up the server, then type ```open index.html``` (for macOS) or ```explorer.exe``` (for Windows OS). The web application will load to a description of the application and why it was created, and a list of the medications with a search bar where you can click on the drug to see all its info as it pertains to NREMT Paramedic
 
 ## Contribution
 
