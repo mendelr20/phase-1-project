@@ -16,7 +16,7 @@ To get started, type ```json-server --watch db.json``` in the terminal to start 
 
 Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change. 
 
-## Gif of the application
+## GIF of the application
 
 ![Application GIF](app.gif)
 
