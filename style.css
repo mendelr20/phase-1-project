@@ -16,23 +16,13 @@ body, html {
   /* filter: blur(5px); */
 }
 
+/* Search bar */
 #searchbar{
   margin-left: 3%;
   padding:15px;
   border-radius: 10px;
 }
 
-input[type=text] {
-   width: 50%;
-   -webkit-transition: width 0.15s ease-in-out;
-   transition: width 0.15s ease-in-out;
-}
-
-/* When the input field gets focus,
-     change its width to 100% */
-/* input[type=text]:focus {
-  width: 60%;
-} */
 
 /*Info Styling*/
 #info{
@@ -40,6 +30,7 @@ input[type=text] {
   position: fixed;
   left: 38%
 }
+
 h1 {
   color: white;      
   text-align: center;
@@ -55,27 +46,6 @@ h3 {
   text-align: center;
 }
 
-h4 {
-  color: white;
-  text-align: center;
-}
-h5 {
-  color: white;
-  text-align: center;
-}
-h6 {
-  color: white;
-  text-align: center;
-}
-
-.search-container{
-  /* top: 0;
-  bottom:0; */
-  /* position:fixed; */
-  position: left;
-  /* overflow-y:scroll;
-  overflow-x:hidden; */
-}
 /* Style the tab */
 .tab {
   float: left;
