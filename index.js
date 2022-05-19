@@ -11,9 +11,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // Link to the info section
     const info = document.querySelector('#info');
     // Link to the search bar
-    const search = document.querySelector('#searchbar')
+    const search = document.querySelector('#searchbar');
     // Link to buttons
-    const btns = document.getElementsByClassName('btn')
+    const btns = document.getElementsByClassName('btn');
         
     // Fetch request function
     function fetchRequest(){
@@ -48,22 +48,22 @@ document.addEventListener('DOMContentLoaded', () => {
     // Function call back for when a drug is clicked
     function buttonCallBack(drug){
         // Empty the info section
-        info.innerHTML = ""
+        info.innerHTML = "";
         // Iterate through each property in the drug and create and append its info
         for (const property in drug) {
             // Create a H3
-            const h3 = document.createElement('h3')
+            const h3 = document.createElement('h3');
             // Set the H3 inner HTML to property and its information and add a line at the end before the next one
-            h3.innerHTML = `${property}: ${drug[property]} \n`
+            h3.innerHTML = `${property}: ${drug[property]} \n`;
             // Append the H3 to the info section
-            info.append(h3)
+            info.append(h3);
           }
     }
 
     // Event listener for when the search bar detects any change - which is why a input event is used as it fire as soon as any change is detected
     search.addEventListener('input', () => {
         // Set input to = whatever is entered into the search bar but changed to lower case
-        const input = search.value.toLowerCase()
+        const input = search.value.toLowerCase();
         // Iterate through each button 
         for (i = 0; i < btns.length; i++) { 
             // If the buttons inner HTML in lower case does not include the search input it will hide it via CSS
@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     // Run the fetch request
-    fetchRequest()
+    fetchRequest();
 })
 
 
